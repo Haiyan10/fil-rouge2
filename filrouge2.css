@@ -75,33 +75,29 @@ height:50% ;
 }
 #tomate
 {
-    width: 50%;
-    height: 50%;
+    width: 40%;
+    height:40%;
 }
 #duck
 {
-    width: 20%;
-    height: 20%;
+    width: 30%;
+    height: 30%;
 }
 #aligator
 {
-    width: 20%;
-    height: 20%;
+    width: 30%;
+    height: 30%;
 }
 #darth
 {
-    width: 20%;
-    height: 20%;
+    width: 30%;
+    height: 30%;
 }
-#wing
-{
-    width: 50%;
-    height: 50%;
-}
+
 #plante
 {
-    width: 20%;
-    height: 20%;
+    width: 30%;
+    height:30%;
 }
 #butterfly
 {
@@ -137,9 +133,9 @@ height:50% ;
 }
 
 
-color: #444;
+color:#444;
 }
-el,
+
 {
  color: #444;
 }
@@ -163,4 +159,4 @@ el,
    }
 
 
-
+}
